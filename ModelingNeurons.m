@@ -11,7 +11,7 @@
 %%
 %#text
 % In this live script the signal carried by the cells that form our brain 
-% will be modeled.
+% will be modeled...
 %
 % A neuron is an electrically excitable cell that receives, processes and 
 % transmits information through electrical and chemical signals. The 
