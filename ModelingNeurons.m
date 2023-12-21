@@ -1,5 +1,5 @@
 %#text{"align":"center"}
-% # Francesca Non si capisce
+% # Anche io
 %
 %  **Authors:** Alice Andalò, Davide Borra
 %
