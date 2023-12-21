@@ -1,5 +1,5 @@
 %#text{"align":"center"}
-% #  Inside the Brain: Modelling the Neuron
+% # Francesca
 %
 %  **Authors:** Alice Andalò, Davide Borra
 %
