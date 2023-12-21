@@ -1,5 +1,5 @@
 %#text{"align":"center"}
-% #  Inside the Brain: Modelling the Neuron
+% #  Inside the Brain: Modelling the Neurond
 %
 %  **Authors:** Alice Andalò, Davide Borra
 %
@@ -11,7 +11,7 @@
 %%
 %#text
 % In this live script the signal carried by the cells that form our brain 
-% will be modeled.
+% will be modeled...
 %
 % A [neuron ](https://www.youtube.com/watch?v=HZh0A-lWSmY)is an 
 % electrically excitable cell that receives, processes and transmits 
