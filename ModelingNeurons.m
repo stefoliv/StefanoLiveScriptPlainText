@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-%#text{"align":"center"}
-% #  Inside the Brain: Modelling the NeuronFrancesca
-=======
 %#text
-% # Stefano
->>>>>>> cd753e900a8c62afb268f614f082d9bd93f68878
+% # Ci riprovo
 %
 % **Authors:** Alice Andalò, Davide Borr
 %
