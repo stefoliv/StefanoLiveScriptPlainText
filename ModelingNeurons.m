@@ -1,5 +1,5 @@
 %#text
-% # AAInside the Brain: Modelling the
+% # AAInside the Brain: Modelling the Stefano
 %
 % **Authors:** Alice Andalò, Davide Borr
 %
